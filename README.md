@@ -9,5 +9,5 @@
 # cd Aryan-frihack
 # python2 Aryan.py
 # Username Aryan
-# password 
+# password hacker
 Tools create by Aryan Hacker 
